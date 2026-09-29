@@ -13,7 +13,7 @@ import com.esgis2026.assigame.entity.Produit;
 import com.esgis2026.assigame.service.AdminProduitService;
 
 import lombok.RequiredArgsConstructor;
-
+// maxime
 /**
  * Modération admin des produits soumis par les vendeurs.
  * Base URL : /api/admin/demandes-produits — réservé au rôle ADMIN.
